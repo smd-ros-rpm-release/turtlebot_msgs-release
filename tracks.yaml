@@ -8,7 +8,7 @@ tracks:
     - git-bloom-generate -y rosrelease :{ros_distro} --source upstream -i :{release_inc}
     - git-bloom-generate -y rosdebian --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc}
-    devel_branch: null
+    devel_branch: hydro-devel
     name: turtlebot_msgs
     patches: null
     release_inc: -1
@@ -16,5 +16,5 @@ tracks:
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: null
+    vcs_uri: https://github.com/turtlebot/turtlebot_msgs.git
     version: :{auto}
