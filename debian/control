@@ -1,0 +1,12 @@
+Source: ros-hydro-turtlebot-msgs
+Section: misc
+Priority: extra
+Maintainer: Jorge Santos <jorge@rnd.yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-message-generation, ros-hydro-sensor-msgs, ros-hydro-std-msgs, ros-hydro-std-srvs
+Homepage: http://ros.org/wiki/turtlebot_msgs
+Standards-Version: 3.9.2
+
+Package: ros-hydro-turtlebot-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-message-runtime, ros-hydro-sensor-msgs, ros-hydro-std-msgs, ros-hydro-std-srvs
+Description: Turtlebot messages, services and actions
