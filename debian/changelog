@@ -1,0 +1,13 @@
+ros-hydro-turtlebot-msgs (2.2.0-1precise) precise; urgency=high
+
+  * Changelog added
+
+ -- Jorge Santos <jorge@rnd.yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-msgs (2.1.0-1precise) precise; urgency=high
+
+  * First release.
+
+ -- Jorge Santos <jorge@rnd.yujinrobot.com>  Thu, 15 Aug 2013 15:00:00 -0000
+
+
