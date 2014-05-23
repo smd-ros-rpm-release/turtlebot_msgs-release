@@ -1,3 +1,22 @@
+## turtlebot_msgs (hydro) - 2.2.0-1
+
+The packages in the `turtlebot_msgs` repository were released into the `hydro` distro by running `/usr/bin/bloom-release turtlebot_msgs -t hydro -r hydro` on `Fri, 23 May 2014 02:23:33 -0000`
+
+The `turtlebot_msgs` package was released.
+
+Version of package(s) in repository `turtlebot_msgs`:
+- rosdistro version: `2.2.0-0`
+- old version: `2.2.0-0`
+- new version: `2.2.0-1`
+
+Versions of tools used:
+- bloom version: `0.5.9`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## turtlebot_msgs - 2.2.0-0
 
 User `jorge@concert` released the packages in the `turtlebot_msgs` repository by running `/usr/bin/bloom-release --track hydro --rosdistro hydro turtlebot_msgs` on `Fri, 30 Aug 2013 05:28:35 -0000`
