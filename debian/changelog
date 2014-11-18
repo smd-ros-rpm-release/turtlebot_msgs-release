@@ -1,0 +1,13 @@
+ros-indigo-turtlebot-msgs (2.2.0-0saucy) saucy; urgency=high
+
+  * Changelog added
+
+ -- Jorge Santos <jorge@rnd.yujinrobot.com>  Fri, 30 Aug 2013 07:00:00 -0000
+
+ros-indigo-turtlebot-msgs (2.1.0-0saucy) saucy; urgency=high
+
+  * First release.
+
+ -- Jorge Santos <jorge@rnd.yujinrobot.com>  Fri, 16 Aug 2013 07:00:00 -0000
+
+
