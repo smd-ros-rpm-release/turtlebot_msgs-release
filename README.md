@@ -1,3 +1,24 @@
+## turtlebot_msgs (indigo) - 2.2.0-0
+
+The packages in the `turtlebot_msgs` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -n -t indigo turtlebot_msgs` on `Tue, 18 Nov 2014 06:29:46 -0000`
+
+The `turtlebot_msgs` package was released.
+
+Version of package(s) in repository `turtlebot_msgs`:
+- upstream repository: https://github.com/turtlebot/turtlebot_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.2.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.10.32`
+- rosdistro version: `0.3.6`
+- vcstools version: `0.1.35`
+
+
 ## turtlebot_msgs (hydro) - 2.2.0-1
 
 The packages in the `turtlebot_msgs` repository were released into the `hydro` distro by running `/usr/bin/bloom-release turtlebot_msgs -t hydro -r hydro` on `Fri, 23 May 2014 02:23:33 -0000`
